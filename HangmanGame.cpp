@@ -113,38 +113,68 @@ void gameTitle() {
 
 void missed(int opt) {
   if (opt == 6) {
-    cout << endl << " \xe2\x98\xb9" << endl;
+    cout << endl << "\t |****!" << endl;
+    cout << "\t |   "; 
+    cout << "\xe2\x98\xb9" << endl;
+    cout << "\t |  ";
     cout << "|()|" << endl;
+    cout << "\t |  ";
     cout << " ||" << endl;
+    cout << "\t |____" << endl << endl;
   } 
   
   if (opt == 5) {
-    cout << endl << " \xe2\x98\xb9" << endl;
+    cout << endl << "\t |****!" << endl;
+    cout << "\t |   "; 
+    cout << "\xe2\x98\xb9" << endl;
+    cout << "\t |  ";
     cout << "|()|" << endl;
-    cout << " |" << endl;
+    cout << "\t |  ";
+    cout << " | " << endl;
+    cout << "\t |____" << endl << endl;
   } 
   
   if (opt == 4) {
-    cout << endl << " \xe2\x98\xb9" << endl;
+    cout << endl << "\t |****!" << endl;
+    cout << "\t |   "; 
+    cout << "\xe2\x98\xb9" << endl;
+    cout << "\t |  ";
     cout << "|()|" << endl;
-    cout << " " << endl;
+    cout << "\t |  ";
+    cout << "   " << endl;
+    cout << "\t |____" << endl << endl;
   } 
 
   if (opt == 3) {
-    cout << endl << " \xe2\x98\xb9" << endl;
-    cout << "|()" << endl;
-    cout << " " << endl;
+    cout << endl << "\t |****!" << endl;
+    cout << "\t |   "; 
+    cout << "\xe2\x98\xb9" << endl;
+    cout << "\t |  ";
+    cout << "|() " << endl;
+    cout << "\t |  ";
+    cout << "   " << endl;
+    cout << "\t |____" << endl << endl;
   } 
 
   if (opt == 2) {
-    cout << endl << "\xe2\x98\xb9" << endl;
-    cout << "()" << endl;
-    cout << " " << endl;
+    cout << endl << "\t |****!" << endl;
+    cout << "\t |   "; 
+    cout << "\xe2\x98\xb9" << endl;
+    cout << "\t |  ";
+    cout << " () " << endl;
+    cout << "\t |  ";
+    cout << "   " << endl;
+    cout << "\t |____" << endl << endl;
   } 
 
   if (opt == 1) {
-    cout << endl << "\xe2\x98\xb9" << endl;
-    cout << " " << endl;
-    cout << " " << endl;
+    cout << endl << "\t |****!" << endl;
+    cout << "\t |   "; 
+    cout << "\xe2\x98\xb9" << endl;
+    cout << "\t |  ";
+    cout << "    " << endl;
+    cout << "\t |  ";
+    cout << "   " << endl;
+    cout << "\t |____" << endl << endl;
   } 
 }
