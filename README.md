@@ -14,14 +14,12 @@ A idéia aqui, é que você jogue com entre duas ou mais pessoas. Ao iniciar o j
 
 #### *Imagens do Jogo:*
 
-![1](/home/gismar/Workspace/C_C++/Repos/HangmanGame/Images/1_Tela_Inicial_Configuracoes.png)
+![1](./Images/1_Tela_Inicial_Configuracoes.png)
 
-![2](/home/gismar/Workspace/C_C++/Repos/HangmanGame/Images/2_Tela_Inicial_Configuracoes.png)
+![2](./Images/2_Tela_Inicial_Configuracoes.png)
 
-![3](/home/gismar/Workspace/C_C++/Repos/HangmanGame/Images/3_Tela_Jogo_em_Execucao.png)
+![3](./Images/3_Tela_Jogo_em_Execucao.png)
 
+![4](./Images/4_Tela_Jogo_em_Execucao.png)
 
-
-![4](/home/gismar/Workspace/C_C++/Repos/HangmanGame/Images/4_Tela_Jogo_em_Execucao.png)
-
-![5](/home/gismar/Workspace/C_C++/Repos/HangmanGame/Images/5_Tela_Jogo_em_Execucao.png)
+![5](./Images/5_Tela_Jogo_em_Execucao.png)
