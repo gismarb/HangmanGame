@@ -107,8 +107,8 @@ int main() {
 }
 
 void gameTitle() {
-  cout << endl << "Jogo da Forca (Atividade 5 RERCAB)" << endl;
-  cout << "Jogo Educativo (Siga as Instrucoes)" << endl << endl;
+  cout << endl << "\t\tJogo da Forca" << endl;
+  cout << "\t\tJogo Educativo (Siga as Instrucoes)" << endl << endl;
 }
 
 void missed(int opt) {
