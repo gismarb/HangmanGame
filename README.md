@@ -14,6 +14,8 @@ A idéia aqui, é que você jogue com entre duas ou mais pessoas. Ao iniciar o j
 
 #### *Imagens do Jogo:*
 
+![6](./Images/Playing.gif)
+
 ![1](./Images/1_Tela_Inicial_Configuracoes.png)
 
 ![2](./Images/2_Tela_Inicial_Configuracoes.png)
